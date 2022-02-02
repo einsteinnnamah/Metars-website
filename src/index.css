@@ -7,7 +7,6 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
-    background-color: red;
 }
 
 .wrapper{
@@ -79,7 +78,6 @@ body{
     .wrapper{
         background-image: url(/images/background-mobile.png);
         background-size: cover;
-        background-color: red;
     }
 }
 
